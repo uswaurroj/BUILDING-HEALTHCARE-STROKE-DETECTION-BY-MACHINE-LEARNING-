@@ -1,0 +1,2 @@
+# BUILDING-HEALTHCARE-STROKE-DETECTION-BY-MACHINE-LEARNING-
+OBJECTIVE  This project aims to develop and implement an advanced system that utilizes machine learning  algorithms to detect and prevent strokes in healthcare settings. By leveraging predictive models and  anomaly detection techniques, the project aims to enhance the early identification and intervention of  stroke risks, thereby minimizing 
